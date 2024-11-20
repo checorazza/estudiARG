@@ -25,7 +25,7 @@ Este proyecto combina tecnologías frontend, backend y diseño para ofrecer una 
 
 ### Front-End
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react" >
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,ts,react" >
 
 ### Back-End + Base de Datos
 
