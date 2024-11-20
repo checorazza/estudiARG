@@ -39,10 +39,6 @@ EstudiARG consta de tres partes principales:
 2. **Backend**: Una API robusta desarrollada en Java y Spring Boot que gestiona la lógica de negocio y la comunicación con la base de datos. La estructura sigue principios de arquitectura limpia, con servicios, controladores y repositorios.
 3. **[Design](./design/README.md)**: Análisis de requerimientos, modelado del sistema utilizando UML, documentación requerida por la cátedra.
 
-## Estructura del Proyecto
-
-El proyecto está organizado en tres carpetas principales:
-
 <br>
 <br>
 No tengo nada todavía, disfruten un perrito
