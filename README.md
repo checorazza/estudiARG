@@ -19,17 +19,10 @@ Este proyecto combina tecnologías frontend, backend y diseño para ofrecer una 
 
 - [Tecnologías](#tecnologías)
 - [Descripción del Proyecto](#descripción-del-proyecto)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 
 ## Tecnologías
 
-### Front-End
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,ts,react" >
-
-### Back-End + Base de Datos
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql" >
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,ts,react,python,django,mysql,swagger&titles=true" >
 
 ## Descripción del Proyecto
 
